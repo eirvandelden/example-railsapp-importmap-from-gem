@@ -1,7 +1,7 @@
 PATH
   remote: ../gem_with_importmappable_js
   specs:
-    gem_with_importmappable_js (0.1.0)
+    my_gem (0.1.0)
       importmap-rails
 
 GEM
@@ -268,9 +268,9 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
-  gem_with_importmappable_js!
   importmap-rails
   jbuilder
+  my_gem!
   propshaft
   puma (>= 5.0)
   rails (~> 7.1.3)
